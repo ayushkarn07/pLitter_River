@@ -6,3 +6,8 @@ Model used is YOLOv5
 
 
 Dataset Link : 
+The Teat sample image 
+
+
+
+![000952_jpg rf 747e4e85c6db141069afbb249ea233bd](https://github.com/user-attachments/assets/a9dbb0df-1cb0-424c-b19d-06223b7f8f3c)
